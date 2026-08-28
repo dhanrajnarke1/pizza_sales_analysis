@@ -109,20 +109,6 @@ The analysis focuses on answering important business questions such as:
 
 ---
 
-## 📂 Project Structure
-
-```text
-Pizza-Sales-Analysis-SQL/
-│
-├── README.md
-│
-├── Pizza_Sales_Analysis.sql
-│
-├── pizza_sales.csv
-│
-└── Screenshots/
-    └── SQL_Analysis.png
-```
 
 ---
 
